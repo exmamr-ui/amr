@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fahim | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <section class="hero">
+        <div class="container">
+            <h1 class="fade-in">Hi, I'm <span class="highlight">Fahim</span></h1>
+            <p class="subtitle fade-in">Creative Developer & Tech Enthusiast</p>
+            
+            <div class="info-card fade-in">
+                <div class="info-item">
+                    <span class="label">Age:</span>
+                    <span class="value">23 Years</span>
+                </div>
+                <div class="info-item">
+                    <span class="label">Phone:</span>
+                    <span class="value">01303359567</span>
+                </div>
+            </div>
+
+            <div class="cta-buttons fade-in">
+                <a href="tel:01303359567" class="btn primary">Contact Me</a>
+                <a href="#projects" class="btn secondary">View Work</a>
+            </div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
